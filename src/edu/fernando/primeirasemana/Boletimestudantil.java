@@ -1,4 +1,4 @@
-
+package edu.fernando.primeirasemana;
 
 public class Boletimestudantil {
     public static void main(String[] args) {
